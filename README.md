@@ -1,4 +1,4 @@
-> ####Electron-React-To-Do-App :) 
+> #### Electron-React-To-Do-App :) 
 > ###### Intro: Example of simple Electron-React application written in TypeSctript.
 
 > This is my very first take on `Electron`. Since I'm usually using React, I combined them into one.
