@@ -6,7 +6,7 @@
 > It's also important to note that it saves your data. I did it for fun, to get to know `Electron` and to refresh my `TypeScript` skills.
 
 > #### Installation: 
-> `npm i`
+> `npm i` - This will install all of the necessary dependencies.
 
 > #### Usage
 > `npm run dev` - This will start all the needed scripts for you to explore it further :)
